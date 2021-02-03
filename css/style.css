@@ -1,0 +1,18 @@
+h1{
+	color: #008080;
+}
+.bg-first{
+	background-color: #008000;
+}
+.border{
+	border: 5px dashed blue;
+}
+#last{ font-size: 55px; }
+}
+
+h2{
+	background-color: #800080;
+	width: 100px;
+	height: 100px;
+}
+	
